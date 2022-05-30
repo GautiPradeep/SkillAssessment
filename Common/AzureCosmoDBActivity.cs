@@ -18,7 +18,7 @@ namespace SkillAssessment.Common
         // The Cosmos client instance
         private CosmosClient cosmosClient;
 
-        // The database we will create
+        // The database we will be created
         private Database database;
 
         // The container we will create.
